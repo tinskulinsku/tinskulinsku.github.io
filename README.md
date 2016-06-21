@@ -1,0 +1,1 @@
+# tinskulinsku.github.io
