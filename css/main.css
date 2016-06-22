@@ -4,9 +4,10 @@ body {
 }
 
 header {
-    background-color: white;
-    background-image: "https://photos-2.dropbox.com/t/2/AACHCf5X7FNg4aY-I2zTWPeZmYiYtj7SnR0g97BQ-rcmcw/12/568765185/jpeg/32x32/1/_/1/2/ruokalaclear.jpg/EOvmscgEGAIgAigC/86uHewXtpgXqUiWFidmPKoX_tJPu6prVYxljBZkGj-Q?size=1280x960&size_mode=3";
-    padding: 2px;
+    font-family: 'Sacramento', cursive;
+	font-size: 77px;
+	color: #fd4466;
+	margin-bottom: 2px;
 }
 footer ul {
     font-family:'Source Sans Pro', 'Helvetica', 'Sans-Serif';
