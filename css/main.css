@@ -5,10 +5,7 @@ body {
 
 header {
     background-color: white;
-    color: #0da4d3;
-    font-family: 'Abel', 'Helvetica', 'Sans-Serif';
-    font-weight: bold;
-    text-align: left;
+    background-image: "https://photos-2.dropbox.com/t/2/AACHCf5X7FNg4aY-I2zTWPeZmYiYtj7SnR0g97BQ-rcmcw/12/568765185/jpeg/32x32/1/_/1/2/ruokalaclear.jpg/EOvmscgEGAIgAigC/86uHewXtpgXqUiWFidmPKoX_tJPu6prVYxljBZkGj-Q?size=1280x960&size_mode=3";
     padding: 2px;
 }
 footer ul {
