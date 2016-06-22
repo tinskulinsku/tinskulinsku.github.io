@@ -2,6 +2,15 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+
+header {
+    background-color: white;
+    color: #0da4d3;
+    font-family: 'Abel', 'Helvetica', 'Sans-Serif';
+    font-weight: bold;
+    text-align: left;
+    padding: 5px;
+}
 footer ul {
     font-family:'Source Sans Pro', 'Helvetica', 'Sans-Serif';
     padding: 0px;
@@ -23,7 +32,7 @@ nav ul {
 footer ul li {
     display: inline;
     margin-right: 20px;
-    float: right;
+    float: none;
 }
 
 nav ul li {
