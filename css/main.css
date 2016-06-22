@@ -12,12 +12,12 @@ footer ul {
 
 nav ul {
     font-family:'Source Sans Pro', 'Helvetica', 'Sans-Serif';
-    padding: 0px;
-    margin: 0px;
-    list-style: none;
-    font-weight: bold;
-    background-color: #333;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
     overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
 
 }
 footer ul li {
@@ -27,20 +27,24 @@ footer ul li {
 }
 
 nav ul li {
-    display: inline;
-    margin-right: 20px;
-    float: right;
+    float: left;
 }
 
-header ul li a {
-    color: white;
+nav ul li a {
+    display: block;
+    color: #666;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
-header ul li a:hover {
-    background-color: #111;
+nav ul li a:hover:not(.active) {
+    background-color: #ddd;
+}
+
+nav ul li a.active {
+    color: white;
+    background-color: #4CAF50;
 }
 
 footer ul li a {
