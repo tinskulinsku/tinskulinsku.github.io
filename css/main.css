@@ -8,9 +8,12 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    max-width: 25%;
+    min-width: 140px;
+    flex: 1;
 }
 nav ul li, footer ul li {
-    display: inline;
+    display: left;
     margin-right: 20px;
 }
 a {
